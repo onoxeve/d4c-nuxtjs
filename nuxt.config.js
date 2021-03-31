@@ -151,7 +151,7 @@ export default {
   },
   sitemap: [
     {
-      hostname: '',
+      hostname: 'laughing-lumiere-3eb002.netlify.app',
       exclude: ['']
     }
   ],
