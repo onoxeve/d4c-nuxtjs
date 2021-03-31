@@ -1,17 +1,5 @@
 # nuxt sample
 
-- フリーランスとかで使えるnuxtボイラーテンプレート
-- netlifyでBuild(Hosting)
-- content部分はContentFul(CMS)のAPIを使って取得
-
-https://laughing-lumiere-3eb002.netlify.app
-
-## Content API
-https://www.contentful.com/
-
-## Hosting
-https://www.netlify.com/
-
 ## Build Setup
 
 ``` bash
